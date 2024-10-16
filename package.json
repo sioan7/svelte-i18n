@@ -54,9 +54,6 @@
       "prettier --write"
     ]
   },
-  "peerDependencies": {
-    "svelte": "^3 || ^4 || ^5"
-  },
   "devDependencies": {
     "@kiwi/eslint-config": "^2.2.8",
     "@kiwi/prettier-config": "^2.2.8",
