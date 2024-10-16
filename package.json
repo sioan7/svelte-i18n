@@ -42,9 +42,6 @@
     "prepublishOnly": "pnpm test -- --no-cache && pnpm build && publint",
     "prepare": "husky install"
   },
-  "files": [
-    "dist/"
-  ],
   "lint-staged": {
     "*.{ts,js}": [
       "eslint --fix",
