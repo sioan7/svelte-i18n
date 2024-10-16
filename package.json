@@ -11,6 +11,9 @@
   "bin": {
     "svelte-i18n": "dist/cli.js"
   },
+  "files": [
+    "dist/"
+  ],
   "license": "MIT",
   "description": "Internationalization library for Svelte",
   "author": "Christian Kaisermann <christian@kaisermann.me>",
