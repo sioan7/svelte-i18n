@@ -51,6 +51,7 @@
       "prettier --write"
     ]
   },
+  "peerDependencies": {},
   "devDependencies": {
     "@kiwi/eslint-config": "^2.2.8",
     "@kiwi/prettier-config": "^2.2.8",
